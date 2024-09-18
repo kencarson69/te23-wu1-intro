@@ -1,0 +1,22 @@
+h1, h2 { line-height: 1.2; }
+h1 { font-size: 3.6rem;}
+main > nav, main > header {border-bottom: 2px solid #333;}
+
+.container {
+    width: min(100% - 3rem, var(--container-max, 80ch));
+    margin-inline: auto;
+}
+h1, h2 {text-align: center;}
+
+body {
+    background-color: #fff4e7;
+    color: #333;
+    margin-top: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+  }
+
+
+
+  
+  
